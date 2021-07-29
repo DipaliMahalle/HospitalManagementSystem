@@ -1,0 +1,70 @@
+[{
+        "id": "H01",
+        "name": "Sahyadri Hospital",
+        "type": "private",
+        "contactNo": "9789809908",
+        "email": "sahyadrihospital@gmail.com",
+        "roomType": "Double room,Single room",
+        "city": "pune",
+        "image": "/HospitalsImage/sahyadry.jpg",
+        "doctorsName": "Swapnil Dudhat,Atul Kolte"
+    },
+    {
+        "id": "H02",
+        "name": "Deenanath Mangeshkar Hospital ",
+        "type": "private",
+        "contactNo": "7543322668",
+        "email": "deennathpune@gmail.com",
+        "roomType": "Double room",
+        "city": "pune",
+        "image": "/HospitalsImage/Dinanath.jpg",
+        "doctorsName": "Laxmi Dhaskat,Tejaswini Deshmukh"
+
+    },
+    {
+        "id": "H03",
+        "name": "Kolte Patil Hospital",
+        "type": "private",
+        "contactNo": "7789809906",
+        "email": "kolte@gmail.com",
+        "roomType": "Double room,Single room",
+        "city": "pune",
+        "image": "/HospitalsImage/kolte.jpg",
+        "doctorsName": "Atul Kolte,Prashant Mahalle"
+
+    },
+    {
+        "id": "H04",
+        "name": "Aditya Birla Memorial Hospital",
+        "type": "private",
+        "contactNo": "8983646616 ",
+        "email": "adityabirlaapune@gmail.com",
+        "roomType": "Double room",
+        "city": "pune",
+        "image": "/HospitalsImage/adityabirla.jpg",
+        "doctorsName": "Swapna Joshi,Swapnil Dudhat"
+
+    },
+    {
+        "id": "H05",
+        "name": "Get Life Hospital",
+        "type": "private",
+        "contactNo": "7883646616 ",
+        "email": "getlifepune@gmail.com",
+        "roomType": "Double room",
+        "city": "pune",
+        "image": "/HospitalsImage/getlife.jpg",
+        "doctorsName": "Tejaswini Deshmukh,Atul Kolte"
+    },
+    {
+        "id": "H06",
+        "name": "Ojas Hospital",
+        "type": "private",
+        "contactNo": "9543322772",
+        "email": "ojaspune@gmail.com",
+        "roomType": "Double room",
+        "city": "pune",
+        "image": "/HospitalsImage/ojas.jpg",
+        "doctorsName": "Prashant Mahalle,Swapna Joshi"
+    }
+]
